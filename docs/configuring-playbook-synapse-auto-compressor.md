@@ -71,3 +71,5 @@ This will not return until the compression is done, so it can possibly take a lo
 ## Troubleshooting
 
 As with all other services, you can find the logs in [systemd-journald](https://www.freedesktop.org/software/systemd/man/systemd-journald.service.html) by logging in to the server with SSH and running `journalctl -fu matrix-synapse-auto-compressor`.
+
+<!-- Auto-update: 2025-10-03T12:10:04.725409 -->
