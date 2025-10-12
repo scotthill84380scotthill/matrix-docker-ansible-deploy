@@ -85,3 +85,5 @@ The default logging level for this component is `warn`. If you want to increase 
 # This bridge uses zerolog, so valid levels are: panic, fatal, error, warn, info, debug, trace
 matrix_mautrix_meta_instagram_logging_min_level: debug
 ```
+
+<!-- Auto-update: 2025-10-12T19:46:26.631038 -->
