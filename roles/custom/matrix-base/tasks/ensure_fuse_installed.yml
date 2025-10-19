@@ -14,3 +14,5 @@
 
 - ansible.builtin.include_tasks: "{{ role_path }}/tasks/ensure_fuse_installed_archlinux.yml"
   when: ansible_facts.os_family == 'Archlinux'
+
+# Update: 2025-10-19
